@@ -4,4 +4,4 @@ python-dotenv
 langchain-google-genai
 langchain-community
 streamlit
-
+tavily-python
